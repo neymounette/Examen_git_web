@@ -31,3 +31,21 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.medal_gold {
+    height: 100px;
+    width: 100px;
+    border: 1px black solid;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text2{
+    font-size: 15px;
+    margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blueviolet;
+    color: aliceblue;
+}
