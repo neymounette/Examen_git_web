@@ -1,0 +1,35 @@
+
+1-Cloner La ressource de l'examen sur https://github.com/KEKREkouamekkgr/ressources_examen_IFRAN.git
+
+2- Que le premier coéquipier Ajoute une Image de médaille de bronze dans le fichier index.html en se faisant aider par son second
+
+3- Commiter les modifications avec un message de votre choix et Ajouter au commit le tag  MON_SITE_V1
+
+4- Pousser votre premier commit et son tag vers votre serveur distant du premier Coequipiers
+NB: N'oubliez pas de me transmettre le lien de votre projet  pousser sur votre repository Github pour que j'aille visiter (premier coequipier).
+
+5- Ajouter votre bibliographie de 03 lignes maximums puis committer avec un message de votre choix et donnez un Tag Biblio
+puis Pousser votre deuxième Commit et son Tag vers votre serveur distant. 
+
+6- Créer une Branche BRANCH_SECOND déplacez-vous la dessus ajouter une Image de medaille d'argent dans le fichier index.html. Pousser votre Commit et son Tag avec un message et un tag de votre choix vers votre serveur distant y compris la Branche créer.
+
+7- Que le deuxième se connecte sur compte github et crée une Issue sur le projet de l'examen du compte Github du premier coequipier en présentant qu'il y un problème, car le fichier .gitignore et le dossier qui comprend le style   manque resolver le probleme en les créant dans votre projet puis Styliser votre site HTML. committer le avec un message de resolver en liant votre commit au problème issue de votre github que vous avez créer de telle sorte que quand je clique sur le numero de l'issuela solution au problème en le liant au numéro de l'Isue (problème) cela doit me rediriger vers l'issue en question quand je clique sur le numéro.
+NB: Tout ça sur la branche BRANCH_SECOND .
+
+8- Créer un dossier en dehors du projet et renomer le, que le second coéquipiers clone le travail effectué ensemble verifie que toutes les modifications ou ajout qu'il fera sur Git en clonnant le projet prenne en compte son nom complet et son Email de l' utilisateur du deuxième coequipier dans le projet projet cloner.
+
+9- Copiez le Commit de la Bibliographie de la branche BRANCH_SECOND sur la branche Principale puis faites un merge de la branche BRANCH_SECOND sur la branche Principale. Enfin supprimer la branche BRANCH_SECOND en local et même distant, puis Pousser ces modifications vers le serveur Distant.
+
+10- Après insérer l'image de la médaille d'or et vos diffférents compétences et surtout le nom et prenom des coéquipiers. Pousser vers le serveur distant.
+
+11- Pour terminer que le premier coéquipiers recupère les modifications de son binôme. Ajoute un Texte "Nous sommes les meilleurs en Git à L'IFRAN" dans le index.html  en le stylisant puis le pousse vers le serveur distant
+
+12- Point de Bonus Facultatif(+2) heberger votre projet sur github comme un site internet et écrivez moi le lien dans le fichier index.html un nouveau commit qui sera votre dernier commit puis pousser le, vers le serveur distant que le premier coequipier se charge de le faire.
+
+13- Envoyer moi aussi la finalité de votre projet sur mooddle.
+
+NB:lisez avant de commencer et dites dans dans l'ajout de votre bibliographie qui est le premier coequipier et son binome
+Merci et Bonne chance a toutes et tous!.
+
+Durée 2h10 min et 30min comme temps de bonus ---> 02h20 min
+
